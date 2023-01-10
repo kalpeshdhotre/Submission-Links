@@ -1,6 +1,6 @@
 # FSJS Batch 01 
 
-## Html & CSS Projects - Below are github links of the projects
+## Html & CSS Projects - Below are github links of the my projects
 1. [Project 01 - Street Style Landing Page](https://github.com/kalpeshdhotre/live-class-project-01)
 2. [Project 02 - Food Restaurant Home Page](https://github.com/kalpeshdhotre/live-class-project-02)
 3. [Project 03 - Law Home Page](https://github.com/kalpeshdhotre/live-class-project-03)
