@@ -1,4 +1,11 @@
-# FSJS Batch 01  - All projects Assignment links below
+Name: Kalpesh K D
+
+# FSJS Batch 01  - All projects Assignment links below 
+> ## [HTML & CSS](#html--css-projects---below-are-github-links-of-the-my-projects)
+
+> ## [TailWind Projects](#tailwind-projects)
+
+> ## [Javascript Projects](#javascript-projects)
 
 ## Html & CSS Projects - Below are github links of the my projects
 
@@ -25,6 +32,7 @@
 3. [Clone of - "RØDE" Home Page](https://github.com/kalpeshdhotre/TaleWindCSS-Rode-Clone)
 
 ## JavaScript Projects
+
 1. [Calculator App](https://github.com/kalpeshdhotre/JSProjectCalculatorApp)
 2. [Stop Watch App](https://github.com/kalpeshdhotre/JSProject_StopWatchApp)
 3. [Countdown App](https://github.com/kalpeshdhotre/JSProject_CountdownApp)
