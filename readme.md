@@ -16,3 +16,9 @@
 11. [Project 13 - SAAS Landing Page](https://github.com/kalpeshdhotre/live-class-project-13)
 11. [Project 14 - Food Restaurant Home Page](https://github.com/kalpeshdhotre/live-class-project-14)
 11. [Project 15 - Product Design Landing Page](https://github.com/kalpeshdhotre/live-class-project-15)
+
+## Projects (Tailwind)
+
+1. [Clone of - "PayTm" Home Page](https://github.com/kalpeshdhotre/tailwindcss-paytm-clone)
+2. [Clone of - "Shopify" Home Page](https://github.com/kalpeshdhotre/-TaleWindCSS-shopify-Clone)
+3. [Clone of - "RØDE" Home Page](https://github.com/kalpeshdhotre/TaleWindCSS-Rode-Clone)
