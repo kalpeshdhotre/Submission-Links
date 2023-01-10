@@ -5,7 +5,7 @@ Name: Kalpesh K D
 
 > ## [TailWind Projects](#tailwind-projects)
 
-> ## [Javascript Projects](#javascript-projects)
+> ## [Javascript Projects](#javascript-projects-1)
 
 ## Html & CSS Projects - Below are github links of the my projects
 
