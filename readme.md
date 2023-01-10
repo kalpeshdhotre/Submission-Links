@@ -3,7 +3,7 @@ Name: Kalpesh K D
 # FSJS Batch 01  - All projects Assignment links below 
 > ## [HTML & CSS](#html--css-projects---below-are-github-links-of-the-my-projects)
 
-> ## [TailWind Projects](#tailwind-projects)
+> ## [TailWind Projects](#projects-tailwind)
 
 > ## [Javascript Projects](#javascript-projects-1)
 
